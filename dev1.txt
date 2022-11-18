@@ -15,3 +15,12 @@ Facebook Watch latest news, shows, & streams or upload your own today.Find Photo
 
 <p style="color:red;">youtube
 YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos.
+<img src="youtube.PNG"alt="error"height = 500 width = 10000>
+<a href="https://youtube.com">youtube</a><hr>
+
+<p style="color:yellow;">Snapchat<br>
+Snapchat is a mobile app that allows users to send and receive "self-destructing" photos and videos.</p>
+<img src="snap.JPG">
+<a href="https://snapchat.com">snapchat</a><hr>
+
+<p style="color:blue:"twitter">
