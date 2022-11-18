@@ -3,3 +3,8 @@
 <head>
 <h1 style="font-size:60;">You Recive All Website Links and details</h1>
 </head>
+<body>
+<p style="color:blue;">INSTAGRAM
+Instagram <br><h1 style="font-size;100;">(from facebook)allows you to create and share your stories,photos and videos with the friends and followers.</p>
+<img src="insta.jpg">
+<a href="https://instagram.com">instagram</a><hr>
